@@ -10,19 +10,32 @@ After importing Data We will perform some Data Analysis and Data Visulation
 like
 * Bar Graph
 * line Graph
+*
+ ![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/LinePLot.PNG)
 * Heatmap to Check Relation 
+* 
+  ![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/heatmap.PNG)
 * Scatter Plot (to check Relation between Features)
 * 
 ![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/Scatterplot.PNG)
 * Boxplot,Count Plot
+* 
+![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/countplot.PNG)
 
 ## Data Cleaning
 *	Checking Null Values
 *	Remove Null value feature having more than 40% of Data Null
 *	Fill Null values By Mean/median/mode for test as well as train Data 
 *	Check Outlier of Sales Price and Remove outlier
+*	for that we will use Boxplot
+*	
+![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/boxplot.PNG)
 *	Check distribution Plot whether is normalized or not
+*	
+![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/distr_plot.PNG)
 *	To normalize Salesprice convert it to Log(salesprice)
+*	after Taking log we get below Distribution plot which is near to normal distribution
+![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/aftrlog.PNG)
 *	Remove Unwanted features
 *	Remove Dummy Variables
 *	Seperate Target variable from Train data
