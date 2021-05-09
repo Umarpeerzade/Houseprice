@@ -12,6 +12,8 @@ like
 * line Graph
 * Heatmap to Check Relation 
 * Scatter Plot (to check Relation between Features)
+* 
+![alt text](https://github.com/Umarpeerzade/Houseprice/blob/main/Scatterplot.PNG)
 * Boxplot,Count Plot
 
 ## Data Cleaning
